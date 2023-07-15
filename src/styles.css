@@ -1,0 +1,44 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  margin: auto;
+  max-width: 600px;
+}
+body {
+  background-color: #e5e5e5;
+}
+
+.heading {
+  color: #713f12;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+button {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #a16207;
+  font-size: 1rem;
+  margin: 0.25rem;
+  background-color: #e5e5e5;
+}
+button:hover {
+  background-color: #d4d4d4;
+}
+ul {
+  padding-inline-start: 0px;
+}
+
+li {
+  list-style: none;
+  border: 1px solid #a16207;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.foodName {
+  font-size: 1.25rem;
+}
